@@ -4,7 +4,7 @@ rgs = {
         location = "westus"
     }
     rg2 = {
-        name = "prod-rg"
+        name = "test-rg"
         location = "westus"
     }
 }

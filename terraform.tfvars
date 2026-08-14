@@ -8,7 +8,7 @@ rgs = {
         location = "westus"
     }
     rg3 = {
-        name = "UAT-rg"
+        name = "123-rg"
         location = "westus"
     }
 }

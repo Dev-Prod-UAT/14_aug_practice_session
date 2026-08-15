@@ -12,7 +12,7 @@ rgs = {
         location = "westus"
     }
     rg4 = {
-        name = "TV1234"
+        name = "newRG1234"
         location = "westus"
     }
 }

@@ -19,7 +19,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: 14_aug_practice_session
+        working-directory: /Users/aviralrawat/Drive_Aviral/Devops_Insiders/Terraform/14_aug/14_aug_practice_session
 
     steps:
       - name: Checkout code
@@ -67,7 +67,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: environments/preprod
+        working-directory: /Users/aviralrawat/Drive_Aviral/Devops_Insiders/Terraform/14_aug/14_aug_practice_session
 
     steps:
       - name: Checkout code

@@ -11,8 +11,4 @@ rgs = {
         name = "RG123"
         location = "westus"
     }
-    rg4 = {
-        name = "newRG1234"
-        location = "westus"
-    }
 }
